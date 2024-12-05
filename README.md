@@ -3,8 +3,7 @@
 <br>
 <h2>*Azure Sign Up</h2>
 <br>
-<br>
-  
+ 
 <p>1. To sign up for Azure, go to this link or go to https://azure.microsoft.com/en-us/ and click on Get started. For this project, I am using the trial version, so I clicked on the “Start Free” button.</p>
 <p align="center"><img src="https://i.imgur.com/84x20O7.png" height="50%" width="50%" alt="image"/>
 
