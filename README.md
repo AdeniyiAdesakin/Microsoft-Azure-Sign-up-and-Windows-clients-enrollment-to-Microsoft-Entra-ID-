@@ -126,8 +126,5 @@
 <p>3. After the verification, you are asked to set up a PIN, input your desired PIN and click OK.</p>
 <p align="center"><img src="https://i.imgur.com/F9kejMf.png" height="50%" width="50%" alt="image"/>
 
+<br>
 
-
-
-
-<p align="center"><img src="" height="50%" width="50%" alt="image"/>
