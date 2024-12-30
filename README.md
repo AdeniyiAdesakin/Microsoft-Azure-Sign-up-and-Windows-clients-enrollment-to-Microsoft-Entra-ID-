@@ -11,7 +11,9 @@ This tutorial outlines how to sync Microsoft Azure with On-Premises Active Direc
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2019 (64bit)
+- Windows 10</b> (64bit)
 - Windows 11</b> (64bit)
+
 
 <h1>Microsoft Azure Sign up and Windows clients enrollment to Microsoft Entra ID </h1>
 <p>This tutorial outlines steps on how to sign up for Microsoft Azure -  a cloud platform that offers services for building, deploying, and managing applications and infrastructure. Also shows steps to enroll windows clients to Microsoft Entra ID.</p>
