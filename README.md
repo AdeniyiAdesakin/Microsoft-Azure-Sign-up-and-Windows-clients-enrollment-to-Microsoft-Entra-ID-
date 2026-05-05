@@ -144,4 +144,5 @@ This tutorial outlines how to sync Microsoft Azure with On-Premises Active Direc
 <p align="center"><img src="https://i.imgur.com/F9kejMf.png" height="50%" width="50%" alt="image"/>
 
 <br>
+<br>
 
